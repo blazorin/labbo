@@ -1,0 +1,15 @@
+/Users/alberto/Documents/WorkSpace/Demonstrations/cmake-build-debug/Demonstrations
+Hello, World!
+
+SET output: 
+ab
+heya1
+malupi2
+
+
+Vector output: 
+heya1
+malupi2
+ab
+
+Process finished with exit code 0
