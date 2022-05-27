@@ -1,0 +1,7 @@
+/Users/alberto/Documents/WorkSpace/Demonstrations/cmake-build-debug/Demonstrations
+Hello, World!
+
+SET duration: 21
+VECTOR duration: 4
+
+Process finished with exit code 0
